@@ -1,0 +1,6 @@
+﻿  win32_handmade.cpp
+c:\users\administrator\source\repos\handmadeheroreim\handmadeheroreim\handmade.cpp(62): warning C4309: “初始化”: 截断常量值
+c:\users\administrator\source\repos\handmadeheroreim\handmadeheroreim\handmade.cpp(70): warning C4244: “+=”: 从“double”转换到“real32”，可能丢失数据
+c:\users\administrator\source\repos\handmadeheroreim\handmadeheroreim\win32_handmade.cpp(443): warning C4244: “参数”: 从“int64”转换到“SIZE_T”，可能丢失数据
+c:\users\administrator\source\repos\handmadeheroreim\handmadeheroreim\win32_handmade.cpp(333): warning C4715: “Win32MainWindowCallback”: 不是所有的控件路径都返回值
+  HandmadeHeroReIm.vcxproj -> C:\Users\Administrator\source\repos\HandmadeHeroReIm\Debug\HandmadeHeroReIm.exe

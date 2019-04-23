@@ -1,0 +1,25 @@
+﻿  handmade.cpp
+c:\users\administrator\source\repos\handmadeheroreim\handmadeheroreim\handmade.cpp(78): warning C4309: “初始化”: 截断常量值
+c:\users\administrator\source\repos\handmadeheroreim\handmadeheroreim\handmade.cpp(86): warning C4244: “+=”: 从“double”转换到“real32”，可能丢失数据
+  win32_handmade.cpp
+c:\users\administrator\source\repos\handmadeheroreim\handmadeheroreim\handmade.cpp(78): warning C4309: “初始化”: 截断常量值
+c:\users\administrator\source\repos\handmadeheroreim\handmadeheroreim\handmade.cpp(86): warning C4244: “+=”: 从“double”转换到“real32”，可能丢失数据
+c:\users\administrator\source\repos\handmadeheroreim\handmadeheroreim\win32_handmade.cpp(383): error C2664: “void OutputDebugStringW(LPCWSTR)”: 无法将参数 1 从“char [256]”转换为“LPCWSTR”
+  c:\users\administrator\source\repos\handmadeheroreim\handmadeheroreim\win32_handmade.cpp(383): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+c:\users\administrator\source\repos\handmadeheroreim\handmadeheroreim\win32_handmade.cpp(401): error C2664: “void OutputDebugStringW(LPCWSTR)”: 无法将参数 1 从“const char [17]”转换为“LPCWSTR”
+  c:\users\administrator\source\repos\handmadeheroreim\handmadeheroreim\win32_handmade.cpp(401): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+c:\users\administrator\source\repos\handmadeheroreim\handmadeheroreim\win32_handmade.cpp(407): error C2664: “void OutputDebugStringW(LPCWSTR)”: 无法将参数 1 从“const char [17]”转换为“LPCWSTR”
+  c:\users\administrator\source\repos\handmadeheroreim\handmadeheroreim\win32_handmade.cpp(407): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+c:\users\administrator\source\repos\handmadeheroreim\handmadeheroreim\win32_handmade.cpp(413): error C2664: “void OutputDebugStringW(LPCWSTR)”: 无法将参数 1 从“const char [17]”转换为“LPCWSTR”
+  c:\users\administrator\source\repos\handmadeheroreim\handmadeheroreim\win32_handmade.cpp(413): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+c:\users\administrator\source\repos\handmadeheroreim\handmadeheroreim\win32_handmade.cpp(419): error C2664: “void OutputDebugStringW(LPCWSTR)”: 无法将参数 1 从“const char [17]”转换为“LPCWSTR”
+  c:\users\administrator\source\repos\handmadeheroreim\handmadeheroreim\win32_handmade.cpp(419): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+c:\users\administrator\source\repos\handmadeheroreim\handmadeheroreim\win32_handmade.cpp(425): error C2664: “void OutputDebugStringW(LPCWSTR)”: 无法将参数 1 从“const char [17]”转换为“LPCWSTR”
+  c:\users\administrator\source\repos\handmadeheroreim\handmadeheroreim\win32_handmade.cpp(425): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+c:\users\administrator\source\repos\handmadeheroreim\handmadeheroreim\win32_handmade.cpp(431): error C2664: “void OutputDebugStringW(LPCWSTR)”: 无法将参数 1 从“const char [17]”转换为“LPCWSTR”
+  c:\users\administrator\source\repos\handmadeheroreim\handmadeheroreim\win32_handmade.cpp(431): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+c:\users\administrator\source\repos\handmadeheroreim\handmadeheroreim\win32_handmade.cpp(437): error C2664: “void OutputDebugStringW(LPCWSTR)”: 无法将参数 1 从“const char [21]”转换为“LPCWSTR”
+  c:\users\administrator\source\repos\handmadeheroreim\handmadeheroreim\win32_handmade.cpp(437): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+c:\users\administrator\source\repos\handmadeheroreim\handmadeheroreim\win32_handmade.cpp(443): error C2664: “void OutputDebugStringW(LPCWSTR)”: 无法将参数 1 从“const char [23]”转换为“LPCWSTR”
+  c:\users\administrator\source\repos\handmadeheroreim\handmadeheroreim\win32_handmade.cpp(443): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+c:\users\administrator\source\repos\handmadeheroreim\handmadeheroreim\win32_handmade.cpp(562): warning C4244: “参数”: 从“int64”转换到“SIZE_T”，可能丢失数据
